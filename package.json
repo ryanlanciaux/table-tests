@@ -1,0 +1,22 @@
+{
+  "name": "rv-test",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "faker": "^4.1.0",
+    "fixed-data-table": "^0.6.3",
+    "lodash": "^4.17.4",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "react-virtualized": "^9.2.2"
+  },
+  "devDependencies": {
+    "react-scripts": "0.9.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
